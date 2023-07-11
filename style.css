@@ -1,0 +1,43 @@
+.wall{
+    width: 1000px;
+    height: 300px;
+border-radius: 5%;
+}
+
+.semititle{
+    margin-left: 20px;
+    font-size: large;
+}
+
+.inputtext{
+    margin-top: 20px;
+    margin-left: 70px;
+    width: 700px;
+    height: 20px;
+}
+
+.submit{
+    background-color: yellow;
+}
+
+.deleteall{
+    background-color: aquamarine;
+}
+ul {
+    padding-left: 0;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+  }
+  
+  .delete {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 4px 8px;
+    cursor: pointer;
+  }
